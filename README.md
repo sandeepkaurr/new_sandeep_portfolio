@@ -12,4 +12,4 @@ Welcome to my portfolio website, built with the MERN stack (MongoDB, Express.js,
 
 <!-- ![Screenshot 2024-08-23 134120](https://github.com/user-attachments/assets/6c30fcc0-cb31-455d-a384-4858f9392b68) -->
 
-![Alt text]("C:\Users\kaurd\Downloads\Screenshot_21-4-2025_15740_localhost.jpeg")
+![Alt text]("portfolio/src/images/Screenshot_21-4-2025_16512_localhost.jpeg")
