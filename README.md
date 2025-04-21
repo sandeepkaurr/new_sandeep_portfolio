@@ -8,8 +8,8 @@ Welcome to my portfolio website, built with the MERN stack (MongoDB, Express.js,
 <h4>Backend Integration:</h4> Node.js and Express.js power the server-side operations and API interactions.
 <h4>Showcase Projects:</h4> Highlighting my work with detailed descriptions and links.
 
-
 <h4>preview for my website</h4>
 
+<!-- ![Screenshot 2024-08-23 134120](https://github.com/user-attachments/assets/6c30fcc0-cb31-455d-a384-4858f9392b68) -->
 
-![Screenshot 2024-08-23 134120](https://github.com/user-attachments/assets/6c30fcc0-cb31-455d-a384-4858f9392b68)
+![Alt text](Screenshot_21-4-2025_15740_localhost.jpeg)
